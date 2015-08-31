@@ -1,7 +1,7 @@
 {
     "room":                     "HappyDiggers",
     "author":                   "Legendair968",
-    "icon":                     "http://i.imgur.com/K7Z57X3.png",
+    "icon":                     "http://i.imgur.com/ITt29uA.png",
     "css":                      "https://cdn.radiant.dj/rcs/rs_room.css",
     "rules": {
         "allowAutorespond":     true,
@@ -30,11 +30,11 @@
         "playback":             "http://i.imgur.com/ybkREks.png",
         "admin":                "https://cdn.radiant.dj/rcs/icons/radiant/admin.png",
         "ambassador":           "https://cdn.radiant.dj/rcs/icons/radiant/ambassador.png",
-        "host":                 "http://i.imgur.com/K7Z57X3.png",
-        "cohost":               "http://i.imgur.com/K7Z57X3.png",
-        "manager":              "http://i.imgur.com/DAxWEeM.png",
-        "bouncer":              "http://i.imgur.com/8M5f0RU.png",
-        "rdj":                  "http://i.imgur.com/ZrnP8hV.jpg",
+        "host":                 "http://i.imgur.com/Jol0HDO.png",
+        "cohost":               "http://i.imgur.com/Jol0HDO.png",
+        "manager":              "http://i.imgur.com/vphwFAs.png",
+        "bouncer":              "http://imgur.com/VgwBosH",
+        "rdj":                  "http://i.imgur.com/spq2J6B.png",
         "subscriber":           "https://cdn.radiant.dj/rcs/icons/radiant/subscriber.png"
     },
     "autocomplete": [],
