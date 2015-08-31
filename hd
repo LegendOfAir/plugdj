@@ -1,0 +1,44 @@
+{
+    "room":                     "HappyDiggers",
+    "author":                   "Legendair968",
+    "icon":                     "http://i.imgur.com/K7Z57X3.png",
+    "css":                      "https://cdn.radiant.dj/rcs/rs_room.css",
+    "rules": {
+        "allowAutorespond":     true,
+        "allowAutowoot":        true,
+        "allowAutojoin":        true,
+        "allowAutograb":        true,
+        "allowSmartVote":       true,
+        "allowEmotes":          true,
+        "allowShowingMehs":     true,
+        "forceSmartVote":       false
+    },
+    "ccc": {
+        "admin":                "#42A5DC",
+        "ambassador":           "#89BE6C",
+        "host":                 "#C42E3B",
+        "cohost":               "#C42E3B",
+        "manager":              "#63FFE3",
+        "bouncer":              "#F9FC47",
+        "rdj":                  "#3C2BFF",
+        "subscriber":           "#C59840",
+        "friend":               "#90AD2F",
+        "user":                 "#777F92"
+    },
+    "images": {
+        "background":           "http://i.imgur.com/JFj4Nss.jpg",
+        "playback":             "http://i.imgur.com/ybkREks.png",
+        "admin":                "https://cdn.radiant.dj/rcs/icons/radiant/admin.png",
+        "ambassador":           "https://cdn.radiant.dj/rcs/icons/radiant/ambassador.png",
+        "host":                 "http://i.imgur.com/K7Z57X3.png",
+        "cohost":               "http://i.imgur.com/K7Z57X3.png",
+        "manager":              "http://i.imgur.com/DAxWEeM.png",
+        "bouncer":              "http://i.imgur.com/8M5f0RU.png",
+        "rdj":                  "http://i.imgur.com/ZrnP8hV.jpg",
+        "subscriber":           "https://cdn.radiant.dj/rcs/icons/radiant/subscriber.png"
+    },
+    "autocomplete": [],
+    "emotes": {
+        "custom_test": "https://cdn.radiant.dj/rcs/icons/test_custom.png"
+    }
+}
