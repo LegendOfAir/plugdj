@@ -37,7 +37,7 @@
         "rdj":                  "http://i.imgur.com/spq2J6B.png",
         "subscriber":           "https://cdn.radiant.dj/rcs/icons/radiant/subscriber.png"
     },  
-    "emotes": {
+    "emotes": { 
         "hdicon": "http://i.imgur.com/WGDkHnb.png"
     }
 }
