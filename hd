@@ -135,7 +135,7 @@
         "!startevent": 3,
         "!testuser": 3,
         "!wllimit": 3,
-        "!wlcount": 3,
+        "!wlcount": 3, 
     },
     "emotes": {
         "HDicon": "http://i.imgur.com/WGDkHnb.png"
