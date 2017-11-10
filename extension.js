@@ -48,18 +48,18 @@
     localStorage.setItem("basicBotsettings", JSON.stringify({
       botName: "basicBot",
       language: "english",
-      chatLink: "https://rawgit.com/basicBot/source/master/lang/en.json",
-      scriptLink: "https://rawgit.com/basicBot/source/master/basicBot.js",
+      chatLink: "https://raw.githubusercontent.com/LegendOfAir/plugdj/master/en.json",
+      scriptLink: "https://raw.githubusercontent.com/LegendOfAir/plugdj/master/basicBot.js",
       roomLock: false, // Requires an extension to re-load the script
       startupCap: 1, // 1-200
       startupVolume: 0, // 0-100
       startupEmoji: false, // true or false
       autowoot: true,
-      autoskip: false,
+      autoskip: true,
       smartSkip: true,
       cmdDeletion: true,
       maximumAfk: 120,
-      afkRemoval: true,
+      afkRemoval: false,
       maximumDc: 60,
       bouncerPlus: true,
       blacklistEnabled: true,
@@ -95,23 +95,23 @@
       etaRestriction: false,
       welcome: true,
       opLink: null,
-      rulesLink: null,
-      themeLink: null,
+      rulesLink: 'https://raw.githubusercontent.com/LegendOfAir/plugdj/master/rules',
+      themeLink: 'https://code.radiant.dj/rcs.min.js',
       fbLink: null,
-      youtubeLink: null,
-      website: null,
+      youtubeLink: 'https://www.youtube.com/user/HappyDiggers',
+      website: 'https://happydiggers.net/content.php',
       intervalMessages: [],
       messageInterval: 5,
       songstats: true,
       commandLiteral: "!",
       blacklists: {
-        NSFW: "https://rawgit.com/basicBot/custom/master/blacklists/NSFWlist.json",
-        OP: "https://rawgit.com/basicBot/custom/master/blacklists/OPlist.json",
-        BANNED: "https://rawgit.com/basicBot/custom/master/blacklists/BANNEDlist.json"
+        NSFW: null,
+        OP: null,
+        BANNED: "https://raw.githubusercontent.com/LegendOfAir/plugdj/master/BANNEDlist"
       }
     }));
 
     // Start the bot and extend it when it has loaded.
-    $.getScript("https://rawgit.com/basicBot/source/master/basicBot.js", extend);
+    $.getScript("https://raw.githubusercontent.com/LegendOfAir/plugdj/master/basicBot.js", extend);
 
 }).call(this);
