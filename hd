@@ -35,10 +35,10 @@
         "manager":              "http://i.imgur.com/vphwFAs.png",
         "bouncer":              "http://i.imgur.com/VgwBosH.png",
         "rdj":                  "http://i.imgur.com/spq2J6B.png",
-        "subscriber":           "https://cdn.radiant.dj/rcs/icons/radiant/subscriber.png"
-        "woot!":                "https://imgur.com/KRQukYu"
-        "grab":                 "https://imgur.com/BODuuEI"
-        "meh":                  "https://imgur.com/ckAvpKW"
+        "subscriber":           "https://cdn.radiant.dj/rcs/icons/radiant/subscriber.png",
+        "woot!":                "http://i.imgur.com/KRQukYu.png",
+        "grab":                 "http://i.imgur.com/BODuuEI.png",
+        "meh":                  "http://i.imgur.com/ckAvpKW.png"
     },  
     "emotes": {
         "hdicon": "http://i.imgur.com/WGDkHnb.png"
