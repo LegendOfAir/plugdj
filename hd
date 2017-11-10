@@ -37,8 +37,8 @@
         "rdj":                  "http://i.imgur.com/spq2J6B.png",
         "subscriber":           "https://cdn.radiant.dj/rcs/icons/radiant/subscriber.png",
         "woot":                 "http://i.imgur.com/KRQukYu.png",
-        "grab":                 "http://i.imgur.com/BODuuEI.png",
-        "mehs":                 "http://i.imgur.com/ckAvpKW.png"
+        "meh":                  "http://i.imgur.com/ckAvpKW.png",
+        "grab":                 "http://i.imgur.com/BODuuEI.png"
     },  
     "emotes": {
         "hdicon": "http://i.imgur.com/WGDkHnb.png"
