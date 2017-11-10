@@ -318,7 +318,7 @@
             blacklists: {
                 NSFW: null,
                 OP: null,
-                BANNED: 'https://raw.githubusercontent.com/LegendOfAir/plugdj/master/BANNEDlist'
+                BANNED: "https://raw.githubusercontent.com/LegendOfAir/plugdj/master/BANNEDlist"
             }
         },
         room: {
