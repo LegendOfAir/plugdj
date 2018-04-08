@@ -2,7 +2,7 @@
     "room":                     "HappyDiggers",
     "author":                   "Created by LegendOfAir",
     "icon":                     "http://i.imgur.com/WGDkHnb.png",
-    "css":                      "https://cdn.radiant.dj/rcs/rs_room.css",
+    "css":                      "https://github.com/LegendOfAir/plugdj/blob/master/css",
     "rules": {
         "allowAutorespond":     true,
         "allowAutowoot":        true,
